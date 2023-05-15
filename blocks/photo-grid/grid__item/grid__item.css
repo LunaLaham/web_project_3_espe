@@ -1,0 +1,14 @@
+.grid__item{
+    width: 284px;
+    height: 213px;
+    overflow: hidden;     
+}
+
+
+@media screen and (min-width: 320px) and (max-width: 767px){
+    .grid__item{
+        width: 200px;
+        height: 130px;
+        
+    }
+}

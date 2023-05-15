@@ -1,0 +1,23 @@
+.place__title{
+    color: #FFFFFF;        
+    font-size: 72px;
+    font-weight: 800;
+    line-height: 76px;        
+    grid-column-start: 1;    
+    grid-row-start: 1;
+    width: 400px;    
+}
+
+.place__title-usa{
+    color:#FFFFFF;
+    font-size: 72px;
+    font-weight: 800;
+    line-height: 76px;
+    width: 700px;
+    grid-column-start: 1;
+    grid-column-end: 3;
+    grid-row-start: 1;    
+    
+    
+    
+}

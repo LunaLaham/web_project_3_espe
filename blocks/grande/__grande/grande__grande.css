@@ -1,0 +1,25 @@
+.grande{   
+    background-color: #2A2C2F; 
+     align-content: center;
+ 
+ }
+ @media screen and (min-width:320px) and (max-width:767px) 
+ {
+     .grande{       
+         max-width:fit-content;  
+             
+      }     
+ }
+ 
+ @media screen and (min-width:768px) and (max-width:1279px) {
+     .grande{
+         max-width:fit-content;  
+        
+      }     
+ }
+ 
+ @media screen and (min-width:1280px) and (max-width:99999px) {
+     .grande{        
+          max-width:fit-content;         
+      }     
+ }
