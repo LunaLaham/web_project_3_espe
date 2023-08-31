@@ -1,9 +1,6 @@
 .lead__subtitle {    
     width: 720px;
-    height: 72px;
-    margin-left: 280px;
-    margin-right: 280px;
-    margin-top: 32px;
+    
     margin-bottom: 62px;
     text-align: center;
     color: #FFFFFF;
@@ -19,7 +16,7 @@
         font-weight: 300;
         line-height: 26px;
         text-align: center;
-        margin-left: 570px;
+        
 
     }
 }

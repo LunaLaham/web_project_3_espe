@@ -1,20 +1,21 @@
 .place__text{
+    width: 484px;
     grid-column-start: 2;
     grid-row-start: 2;
     grid-row-end: 4; 
+    padding-right: 200px;
 }
 
 .place__paragraph{    
     color: #FFFFFF;
     font-size: 18px;
-    font-weight: 400px;
     line-height: 29px;
     font-family: inter;
     text-align: justify;
 }
 
 
-@media screen and (min-width: 320px) and (max-width: 767px){
+@media screen and (min-width: 320px) and (max-width: 768px){
     .place__text{
         width: 300px;
         height: 400px;

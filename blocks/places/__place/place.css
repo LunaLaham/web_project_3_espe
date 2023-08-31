@@ -15,7 +15,7 @@
      
     } 
  }
- @media screen and (min-width: 320px) and (max-width: 767px) {
+ @media screen and (min-width: 320px) and (max-width: 768px) {
     .place{
         width: 320px;
         padding-left: 270px;

@@ -1,10 +1,15 @@
 .cover{
-    max-width:1184px;
-    min-height:740px;
+    width: 100%;
     margin-top: 92px;
     position: relative;
-    padding-left: 100px;
    }
+   @media screen and (min-width: 320px) and (max-width: 768px){
+     .cover{
+        
+     }
+
+}
+
 
    
        

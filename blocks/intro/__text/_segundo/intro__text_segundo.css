@@ -1,13 +1,10 @@
 .intro__text_segundo{    
     width: 720px;
-    height: 182px;
     color: #FFFFFF;
-    font-weight: 400px;
     font-size: 16px;
     line-height: 26.08px;
     font-style: normal;
     font-family: inter;
-    margin-left: 148px;
     margin-top: 42px;
 }
 
@@ -16,8 +13,8 @@
         width: 620px;
         height: 250px;
         font-size: 20px;
-        margin-left: 530px;
-        font-weight: 300;
+        margin-left: 400px;
+     
 
     }
 }
