@@ -2,15 +2,17 @@
     z-index:99;
     color: #FFFF;
     font-size: 80px;
-    margin-left: 200px;
     display: block;
     position: relative;
+    padding-left: 200px;
+
     
 }
 
-@media screen and (min-width: 320px) and (max-width: 767px){
+@media screen and (min-width: 320px) and (max-width: 768px){
     .cover__content-title{
         font-size: 60px;
         padding-top: 150px;
+        margin-left: 0px;
     }
 }
